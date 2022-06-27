@@ -1,0 +1,11 @@
+# Ignore compiled objects
+*.class
+
+# Ignore compiled file folders
+bee/
+world/
+util/
+
+# Ignore replit files
+.replit
+*.nix
